@@ -124,7 +124,7 @@ This project demonstrates building a scalable CMS with **dedicated APIs**, real-
 
 If you’d like to learn more or collaborate:
 
-- 📧 Email: mr.hooshangi.official@gmail.com
-- 🌐 Website: www.mohsenhooshangi.ir
-- 🖥️ GitHub: github.com/MohsenHooshangi
-- 💼 LinkedIn: linkedin.com/mohsen-houshangi
+- 📧 Email: **mr.hooshangi.official@gmail.com**  
+- 🌐 Website: [www.mohsenhooshangi.ir](https://www.mohsenhooshangi.ir)  
+- 🖥️ GitHub: [github.com/MohsenHooshangi](https://github.com/MohsenHooshangi)
+- 🖥️ Linkedin: [linkedin.com/in/mohsen-houshangi](https://linkedin.com/in/mohsen-houshangi)
